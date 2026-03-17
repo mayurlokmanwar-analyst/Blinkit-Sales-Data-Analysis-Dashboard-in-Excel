@@ -1,13 +1,13 @@
-# 🛒 Blinkit Grocery: Sales & Inventory Intelligence Dashboard
+# 🛒 Blinkit Grocery: Sales & Inventory Intelligence Dashboard (Excel)
 
-Welcome to the **Blinkit Sales Analysis** repository! This project features a sophisticated Power BI solution analyzing **$1.2M in grocery sales data**. It optimizes retail operations by evaluating outlet efficiency, item performance, and customer satisfaction metrics for Blinkit.
+Welcome to the **Blinkit Sales Analysis** repository! This project features a sophisticated **Excel-based** analytical suite analyzing **$1.2M in grocery sales data**. It optimizes retail operations by evaluating outlet efficiency, item performance, and customer satisfaction metrics using advanced Excel techniques.
 
-[📊 View Project Repository](https://github.com/mayurlokmanwar-analyst/Blinkit-Sales-Data-Analysis-Dashboard-in-Power-BI)
+[📊 View Project Repository](https://github.com/mayurlokmanwar-analyst/Blinkit-Sales-Data-Analysis-Dashboard-in-Excel)
 
 ---
 
 ## 🚀 Overview
-This dashboard provides actionable insights into the hyper-local delivery model. By processing thousands of transaction records, the analysis identifies high-value grocery baskets, regional revenue leaders, and health-conscious consumer trends to drive data-backed retail strategies.
+This dashboard provides actionable insights into the hyper-local delivery model. By processing thousands of transaction records within Excel, the analysis identifies high-value grocery baskets, regional revenue leaders, and health-conscious consumer trends to drive data-backed retail strategies.
 
 ### Key Business Metrics (KPIs):
 - **Total Revenue:** **$1.20 Million** in total sales across all outlet types.
@@ -18,19 +18,19 @@ This dashboard provides actionable insights into the hyper-local delivery model.
 ---
 
 ## 🛠️ Technical Toolbelt
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Power Query](https://img.shields.io/badge/Power_Query-0078D4?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-Advanced_Analytics-blue?style=for-the-badge)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power Pivot](https://img.shields.io/badge/Power_Pivot-Data_Modeling-green?style=for-the-badge)
+![Pivot Tables](https://img.shields.io/badge/Pivot_Tables-Analysis-blue?style=for-the-badge)
 
-- **Data Engineering:** Used **Power Query** for rigorous cleaning and standardizing inconsistent naming conventions across 16 distinct grocery categories.
-- **Advanced DAX:** Engineered complex measures for **Average Sales Velocity**, **Custom KPI aggregations**, and longitudinal growth tracking.
-- **Data Source:** Processed raw Blinkit transactional data (CSV/Excel) to build a scalable reporting model.
+- **Data Engineering:** Used **Power Query (within Excel)** for rigorous cleaning and standardizing inconsistent naming conventions across 16 distinct grocery categories.
+- **Data Modeling:** Utilized **Power Pivot** to create a relational data model, enabling complex calculations across multiple data tables.
+- **Advanced Formulas & Measures:** Engineered custom calculations for **Average Sales Velocity** and **YoY Growth** using specialized Excel functions and measures.
 
 ---
 
 ## 📸 Dashboard Preview
-*(Add your dashboard snapshot here to showcase the UI)*
-<img src="Dashboard_Snapshot.png" alt="Blinkit Dashboard Preview" width="800">
+*(Add your Excel dashboard screenshot here to showcase the UI)*
+<img src="Dashboard_Snapshot.png" alt="Blinkit Excel Dashboard Preview" width="800">
 
 ---
 
@@ -44,8 +44,8 @@ This dashboard provides actionable insights into the hyper-local delivery model.
 
 ## 📁 Project Structure
 ```text
-Blinkit-Grocery-Analysis/
-├── Data/               # Raw BlinkIT Grocery Data (CSV)
+Blinkit-Grocery-Excel-Analysis/
+├── Data/               # Raw BlinkIT Grocery Data (CSV/XLSX)
 ├── Visuals/            # High-resolution dashboard snapshots
-├── Blinkit_Dashboard.pbix # Core Power BI Interactive Analysis
+├── Blinkit_Dashboard.xlsx # Core Excel Interactive Analysis
 └── README.md           # Project Documentation
