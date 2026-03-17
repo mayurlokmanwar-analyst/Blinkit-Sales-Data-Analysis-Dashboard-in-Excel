@@ -39,16 +39,12 @@ This project transforms **$1.2M in raw grocery transaction data** into a sophist
 
 ---
 
----
-
 ## 📸 Dashboard Preview
 *Visualizing regional leadership and product department performance.*
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mayurlokmanwar-analyst/Blinkit-Sales-Data-Analysis-Dashboard-in-Excel/main/Visuals/Dashboard_Snapshot.png" alt="Blinkit Dashboard Preview" width="900" style="border-radius: 10px; border: 2px solid #1b263b;">
+  <img src="./Visuals/Blinkit%20Data%20Analysis%20Dashboard.png" alt="Blinkit Dashboard Preview" width="900" style="border-radius: 10px; border: 2px solid #1b263b;">
 </div>
-
----
 
 ---
 
@@ -64,6 +60,6 @@ This project transforms **$1.2M in raw grocery transaction data** into a sophist
 ```text
 Blinkit-Grocery-Excel-Analysis/
 ├── 📂 Data/                 # Raw BlinkIT Grocery Records (CSV/XLSX)
-├── 📂 Visuals/              # Dashboard Snapshots (Dashboard_Snapshot.png is here)
+├── 📂 Visuals/              # Dashboard Snapshots (Blinkit Data Analysis Dashboard.png)
 ├── 📄 Blinkit_Dashboard.xlsx # Interactive Excel Analysis Suite
 └── 📄 README.md             # Project Documentation
