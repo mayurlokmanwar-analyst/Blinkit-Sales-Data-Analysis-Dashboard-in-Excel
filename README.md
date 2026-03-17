@@ -43,7 +43,7 @@ This project transforms **$1.2M in raw grocery transaction data** into a sophist
 *Visualizing regional leadership and product department performance.*
 
 <div align="center">
-  <img src="./Visuals/Blinkit%20Data%20Analysis%20Dashboard.png" alt="Blinkit Dashboard Preview" width="900" style="border-radius: 10px; border: 2px solid #1b263b;">
+  <img src="Blinkit Data Analysis Dashboard.png" alt="Blinkit Dashboard Preview" width="900" style="border-radius: 10px; border: 2px solid #1b263b;">
 </div>
 
 ---
